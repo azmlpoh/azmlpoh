@@ -55,6 +55,8 @@
 ### 📊 GitHub
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=azmlpoh&theme=gruvbox&locale=zh_Hans)
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=azmlpoh&show_icons=true&title_color=F7A83E&text_color=333333&icon_color=F7A83E&bg_color=FFF3E0&locale=zh-cn&hide_title=true)
 ---
 
 ### 📦 最近在忙什么
