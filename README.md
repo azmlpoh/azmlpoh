@@ -4,7 +4,7 @@
 
 <br>
 
-# Sun-dried Oranges
+# Expie
 
 > *"写点小代码，解决小问题。"*
 
@@ -47,7 +47,7 @@
 | 领域 | 工具/语言 |
 |------|-----------|
 | **主要语言** | Haxe ·HScript· Lua |
-| **引擎** | Codename Engine · Lime/OpenFL |
+| **引擎** | Codename Engine |
 | **日常活** | 事件编写|
 
 ---
